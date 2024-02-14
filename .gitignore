@@ -1,0 +1,6 @@
+/.vscode
+/build
+/dist
+/main.spec
+/youtube-downloader.spec
+/__pycache__
